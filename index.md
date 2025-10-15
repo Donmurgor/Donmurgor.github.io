@@ -49,9 +49,11 @@ author_profile: true
 - **Quality Assurance**: Conducted thorough reviews of annotated data to maintain accuracy and consistency, identifying and correcting errors to meet project standards.
 - **Collaboration**: Worked closely with data scientists and machine learning engineers to understand project requirements and improve annotation processes, contributing to the development of advanced vehicle tracking systems.
 - **Tool Utilization**: Utilized specialized software tools for LiDAR data visualization and annotation, enhancing efficiency in processing large datasets.
+
 ---
 ### **Skills developed**
 ---
+
 - **Technical Proficiency**: Gained hands-on experience with LiDAR technology and its applications in autonomous vehicles, deepening my understanding of 3D spatial data.
 - **Attention to Detail**: Enhanced the ability to focus on minute details while managing large datasets, ensuring the accuracy of annotations critical for model training.
 - **Problem-Solving**: Developed strong analytical skills to troubleshoot annotation challenges and find effective solutions in collaboration with the team.
