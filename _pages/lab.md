@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "**LAB**"
 permalink: /lab/
 layout: single
 author_profile: true
 ---
-# **LAB**
+# **Network Security**
 
 ---
 
