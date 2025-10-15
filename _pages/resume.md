@@ -1,10 +1,11 @@
 ---
-title: "**RESUME**"
+title: ""
 layout: single
 permalink: /resume/
 author_profile: true
 ---
-
+# **RESUME**
+---
 ## **EDUCATION**
 
 - **Diploma in Business Information Technology**,  Cooperative university 
