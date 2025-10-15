@@ -1,10 +1,10 @@
 ---
-title: "Network Security"
+title: "PROJECTS"
 permalink: /project/
 layout: single 
 author_profile: true
 ---
-# **PROJECTS**
+# **Network Security**
 ---
 1. Using Wireshark to Examine Network Traffic
 <iframe src="https://drive.google.com/file/d/1dekcfSBztkxMNkKfEFhiGQ7xY0uBDhsT/preview" width="640" height="480" allow="autoplay"></iframe>
