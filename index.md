@@ -21,7 +21,7 @@ author_profile: true
 
 ---
 
-### **TOP SKILLS & EXPERTISE **
+### **TOP SKILLS & EXPERTISE**
 - Networking 
 - Web Development: HTML, CSS,
 - SQL: Skilled in database management and data manipulation.
