@@ -76,7 +76,7 @@ author:
       url: "https://instagram.com/d_nmurgor"
 
 footer:
-  links:
+  # links:
     # - label: "Twitter"
     # icon: "fab fa-fw fa-twitter-square"
     #  url: "https://twitter.com/"
