@@ -3,7 +3,7 @@ main:
   url: /resume/
 - title: "Project"
   url: /project/
-- title: "Tags"
-  url: /tags/
+- title: "Lab"
+  url: /lab/
 - title: "About"
   url: /about/
