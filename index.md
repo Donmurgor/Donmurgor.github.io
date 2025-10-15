@@ -1,7 +1,7 @@
 ---
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-neon
 layout: single
 author_profile: true
 ---
@@ -26,13 +26,13 @@ author_profile: true
 - Web Development: HTML, CSS,
 - SQL: Skilled in database management and data manipulation.
 - Data Analysis using excel
+- Data annotation
 - Problem-Solving
-- Time Management
+- Attention to Detail    
+- Team player
+- Time Management 
+- Adaptability
 - Communication Skills
-- Attention to Detail
-- Data annotation    
-- Team player  
-- Adaptability 
 - Emotional intelligence 
 
 ---
