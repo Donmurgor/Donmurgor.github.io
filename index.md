@@ -29,7 +29,6 @@ author_profile: true
 - Problem-Solving
 - Time Management
 - Communication Skills
-- Problem-Solving
 - Attention to Detail
 - Data annotation    
 - Team player  
