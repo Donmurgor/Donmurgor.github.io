@@ -43,13 +43,14 @@ author_profile: true
 ---
 
 ### **Sama AI**| Reviewer | Sep 2022 - July 2025
+
 ### **Key Responsibilities**
 - **Data Annotation**: Accurately annotated LiDAR data to identify and classify various objects, including vehicles, pedestrians, and obstacles, ensuring high-quality datasets for machine learning models.
 - **Quality Assurance**: Conducted thorough reviews of annotated data to maintain accuracy and consistency, identifying and correcting errors to meet project standards.
 - **Collaboration**: Worked closely with data scientists and machine learning engineers to understand project requirements and improve annotation processes, contributing to the development of advanced vehicle tracking systems.
 - **Tool Utilization**: Utilized specialized software tools for LiDAR data visualization and annotation, enhancing efficiency in processing large datasets.
 ---
-  ### **Skills developed**
+### **Skills developed**
 ---
 - **Technical Proficiency**: Gained hands-on experience with LiDAR technology and its applications in autonomous vehicles, deepening my understanding of 3D spatial data.
 - **Attention to Detail**: Enhanced the ability to focus on minute details while managing large datasets, ensuring the accuracy of annotations critical for model training.
@@ -58,17 +59,18 @@ author_profile: true
 
 ---
 
-  ### **National Cereals and Produce Board** | ICT intern | Jan 2020 – Mar 2020
+### **National Cereals and Produce Board** | ICT intern | Jan 2020 – Mar 2020
 ---
-  ### **Key Responsibilities**
+### **Key Responsibilities**
 ---
 - **Technical Support**: Provided assistance to end-users by troubleshooting hardware and software issues, ensuring minimal downtime.
 - **Network Maintenance**: Assisted in monitoring and maintaining network infrastructure, including routers, switches, and firewalls, to ensure optimal performance.
 - **System Updates**: Supported the installation and configuration of operating systems and software applications, keeping systems up to date and secure.
 - **Documentation**: Created and maintained technical documentation, including user manuals and troubleshooting guides, to aid future reference and training.
 - **Project Involvement**: Participated in various IT projects, collaborating with team members to implement new technologies and improve existing systems.
+
 ---
-  ### **Skills Developed**
+### **Skills Developed**
 ---
 - **Problem-Solving**: Enhanced analytical skills by diagnosing and resolving technical issues efficiently.
 - **Technical Proficiency**: Gained hands-on experience with various operating systems (Windows, Linux) and software applications, broadening technical knowledge.
