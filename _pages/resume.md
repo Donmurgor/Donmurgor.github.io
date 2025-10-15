@@ -16,7 +16,7 @@ author_profile: true
 ## **CERTIFICATIONS**
 
 - **CCNA**, cisco
-
+- **Cloud and Network Security**, currently doing at Cyber Shujaa.
 ---
 
 ### **TOP SKILLS & EXPERTISE**
