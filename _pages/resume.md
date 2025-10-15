@@ -4,8 +4,6 @@ layout: single
 permalink: /resume/
 author_profile: true
 ---
- **RESUME**
----
 
 ## **EDUCATION**
 
