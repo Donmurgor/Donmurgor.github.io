@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Network Security"
 permalink: /project/
 layout: single 
 author_profile: true
