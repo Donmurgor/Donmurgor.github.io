@@ -60,8 +60,7 @@ plugins:
 author:
   name   : "Donald Murgor"
   avatar : "/assets/images/Photo1.jpg"
-  bio    : "Bridging Technology and Business for Impactful Results."
-  - **Contacts**  
+  bio    : "Bridging Technology and Business for Impactful Results."  
   links:
     #- label: ""
     # icon: "fas fa-fw fa-"
