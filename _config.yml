@@ -62,8 +62,8 @@ author:
   avatar : "/assets/images/Photo1.jpg"
   bio    : "Bridging Technology and Business for Impactful Results."
   links:
-    - label: "(+254) 791588059"
-      icon: "fas fa-fw fa-phone"
+    #- label: ""
+    # icon: "fas fa-fw fa-"
     # url: "https://"
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
