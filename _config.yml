@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/Photo1.jpg"
   bio    : "Bridging Technology and Business for Impactful Results."
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-mail"
-      url: "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqWggFKVmmjsSxSqfTJHmSGNtvmzfDxRsPBFbtgQFHTPCBKJfDZHsBnCPlGkgQNlMlphLB"
+    - label: "(+254) 791588059"
+      icon: "fas fa-fw fa-phone"
+    # url: "https://"
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/donald-murgor-8467ba250/"
