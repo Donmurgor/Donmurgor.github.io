@@ -63,7 +63,7 @@ author:
   bio    : "Bridging Technology and Business for Impactful Results."  
   links:
     - label: "Twitter"
-      icon: "fas fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/don_murgor"
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
